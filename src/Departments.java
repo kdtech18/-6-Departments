@@ -2,7 +2,7 @@
    Kenton Duprey
    Java Graphics II G
    Mr. Blondin
-   11/8/2016
+   11/7/2016
 */
 
 import java.util.Scanner;
