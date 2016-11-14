@@ -1,8 +1,8 @@
 /* Departments.java
-   Kenton Duprey
-   Java Graphics II G
-   Mr. Blondin
-   11/7/2016
+/* Kenton Duprey
+/* Java Graphics II G
+/* Mr. Blondin
+/* 11/7/2016
 */
 
 import java.util.Scanner;
