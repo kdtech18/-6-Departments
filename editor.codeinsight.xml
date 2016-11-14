@@ -1,0 +1,9 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="SMART_INDENT_ON_ENTER" value="false" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
+</application>

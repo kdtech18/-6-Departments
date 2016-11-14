@@ -1,0 +1,12 @@
+<templateSet group="output">
+  <template name="out" value="System.out.print($END$);" description="Prints a System.out.print" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="outl" value="System.out.println($END$);" description="Prints a System.out.println" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

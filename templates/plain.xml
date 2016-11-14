@@ -1,0 +1,12 @@
+<templateSet group="plain">
+  <template name="head" value="/* $END$.java&#10;   Kenton Duprey&#10;   Java Graphics II G&#10;   Mr. Blondin&#10;   Date&#10;*/" description="prints header" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="class" value="public class $END$&#10;{&#10;    &#10;}" description="Prints class declaration" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
